@@ -13,6 +13,10 @@ This project demonstrates React fundamentals including:
 - Editing Tasks
 
 ---
+🔗 **Live Demo:**  
+👉 https://zenkanban-professional-task-board.vercel.app/
+
+---
 
 ## 📌 Features
 
@@ -114,7 +118,8 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+(![Uploading {9675BDFE-9F2E-448D-B818-C9D095759913}.png…]()
+)
 
 ---
 
